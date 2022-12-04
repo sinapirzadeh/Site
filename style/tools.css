@@ -1,0 +1,27 @@
+.mt-50{
+    margin-top: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.mb-100{
+    margin-bottom: 100px;
+}
+
+.rtl{
+    direction: rtl;
+}
+
+.pl{
+    padding-left: 30px !important;
+}
+
+.pr{
+    padding-right: 30px !important;
+}
+
+.dis-none{
+    display: none !important;
+}
